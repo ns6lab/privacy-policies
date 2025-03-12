@@ -1,0 +1,33 @@
+Privacy PolicyEffective Date: [03-March-2025]
+
+Introduction
+Welcome to Instant Image to PDF. Your privacy is important to us. This Privacy Policy explains how we handle your data when you use our App.
+
+No Data Collection
+We do not collect, store, process, or share any personal data from our users. Our App operates entirely offline, and no internet connection is required to use it.
+
+No User Accounts Required
+The App does not require user registration or account creation. You can use it freely without providing any personal details.
+
+No Data Transmission
+All processing happens on your device. The App does not send any data to external servers or third parties.
+
+No Third-Party Services
+Our App does not integrate with third-party services, analytics tools, or advertising networks that track or collect user data.
+
+Children's Privacy
+Our App is suitable for all age groups. Since we do not collect any data, there is no risk of exposing children’s information.
+
+GDPR Compliance (General Data Protection Regulation)
+Since we do not process personal data, GDPR obligations regarding user rights such as data access, correction, deletion, or portability do not apply.
+If you have any concerns, you may contact us at care.ns6lab@gmail.com.
+
+CCPA Compliance (California Consumer Privacy Act)
+We do not collect, sell, or share any user data, making CCPA opt-out rights and deletion requests unnecessary.
+California residents may contact us at care.ns6lab@gmail.com for any concerns regarding their privacy.
+
+Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. Any changes will be reflected with a new effective date. Continued use of the App after any modifications means acceptance of the revised policy.
+
+Contact Us
+If you have any questions regarding this Privacy Policy, please contact us at care.ns6lab@gmail.com.
